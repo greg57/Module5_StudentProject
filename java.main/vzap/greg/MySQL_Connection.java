@@ -46,26 +46,14 @@ public class MySQL_Connection
 		}
 
 	}
-
-	/**
-	 * @return the user
-	 */
 	public String getUser()
 	{
 		return username;
 	}
-
-	/**
-	 * @return the databaseName
-	 */
 	public String getDatabaseName()
 	{
 		return databaseName;
 	}
-
-	/**
-	 * @return the connection
-	 */
 	public Connection getConnection()
 	{
 		return connection;
