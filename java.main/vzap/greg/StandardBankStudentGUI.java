@@ -58,6 +58,7 @@ import javax.swing.JFormattedTextField;
 import javax.swing.ScrollPaneConstants;
 
 //Test comment
+//test comment 2
 public class StandardBankStudentGUI extends JFrame
 {
 
