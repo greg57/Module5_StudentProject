@@ -57,10 +57,7 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.JFormattedTextField;
 import javax.swing.ScrollPaneConstants;
 
-// TODO: Auto-generated Javadoc
-/**
- * The Class StandardBankStudentGUI.
- */
+//Test comment
 public class StandardBankStudentGUI extends JFrame
 {
 
